@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# team404-Academe
+All-in-one package for educational institutions with - organised update of study materials (for each sections), live video with chat feature for classes, exams with anti-cheat support, tracking of submission of assignment and properly calculated and graded marksheet.
+>>>>>>> 102761e839f7acd4b303aeb9853eea1ae79ea8d5
